@@ -46,7 +46,7 @@ background: linear-gradient(90deg, rgba(31, 183, 242, 1) 42%, rgba(217, 0, 255, 
 
 .array-bar{
     margin: 0 2px;
-    background-color: rgb(3, 1, 1);
+    background-color: rgb(223, 73, 73);
     width: 20px;
     flex: 1;
 
