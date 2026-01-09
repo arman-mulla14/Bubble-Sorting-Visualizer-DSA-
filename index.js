@@ -41,7 +41,7 @@ bar2.style.height = temp;
 setTimeout(()=>{
     resolve();
 
-},250); 
+},150); 
     })
 }
 
