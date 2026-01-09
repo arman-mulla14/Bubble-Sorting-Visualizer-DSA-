@@ -24,10 +24,15 @@ background: linear-gradient(90deg, rgba(31, 183, 242, 1) 42%, rgba(217, 0, 255, 
 .main-title{
     background: linear-gradient(90deg, rgb(225, 73, 80) 42%, rgba(217, 0, 255, 1) 100%);
     text-align: center;
-    width: 30%;
+    width: 50%;
+    word-wrap: break-word;
     border-radius: 5px;
     margin-right: auto;
     margin-left: auto;
+}
+
+.dh{
+    height: 11;
 }
 
 
@@ -46,7 +51,7 @@ background: linear-gradient(90deg, rgba(31, 183, 242, 1) 42%, rgba(217, 0, 255, 
 
 .array-bar{
     margin: 0 2px;
-    background-color: rgb(3, 1, 1);
+    background-color: rgb(223, 73, 73);
     width: 20px;
     flex: 1;
 
