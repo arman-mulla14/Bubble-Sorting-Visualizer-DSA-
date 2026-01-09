@@ -31,6 +31,10 @@ background: linear-gradient(90deg, rgba(31, 183, 242, 1) 42%, rgba(217, 0, 255, 
     margin-left: auto;
 }
 
+.dh{
+    height: 11;
+}
+
 
 .array{
     display: flex;
